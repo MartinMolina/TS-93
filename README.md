@@ -1,7 +1,7 @@
 # TS-93
 Hecho en C# con Unity 2020.3.14f1
 
-[Descargar](https://drive.google.com/file/d/1jQ0D8PzrpvPi-kNWNmYSKERyltt0kq3C/view?usp=share_link)
+[Descargar](https://drive.google.com/u/0/uc?id=1jQ0D8PzrpvPi-kNWNmYSKERyltt0kq3C&export=download)
 
 ### Contexto
 El juego es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
