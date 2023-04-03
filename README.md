@@ -1,4 +1,5 @@
 # TS-93
+Hecho en C# con Unity 2020.3.14f1
 ### Contexto
 El juego es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
 
