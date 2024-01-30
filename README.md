@@ -4,7 +4,7 @@ Hecho en C# con Unity 2020.3.14f1
 [Jugar ahora](https://bojacket.itch.io/ts-93)
 
 ### Acerca del juego
-TS-03 es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
+TS-93 es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
 
 ![image](https://user-images.githubusercontent.com/28521533/229397999-c433322f-94e4-4975-ab68-6165229899ba.png)
 ![image](https://user-images.githubusercontent.com/28521533/229398008-e6aec41a-dc07-40e2-b4d5-35ee4911cbac.png)
