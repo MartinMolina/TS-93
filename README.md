@@ -1,15 +1,15 @@
 # TS-93
 Hecho en C# con Unity 2020.3.14f1
 
-[Descargar](https://drive.google.com/u/0/uc?id=1jQ0D8PzrpvPi-kNWNmYSKERyltt0kq3C&export=download)
+[Jugar ahora]([https://drive.google.com/u/0/uc?id=1jQ0D8PzrpvPi-kNWNmYSKERyltt0kq3C&export=download](https://bojacket.itch.io/ts-93))
 
 ### Contexto
-El juego es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
+TS-03 es un plataformero 2D en el que se controla a un robot cuyo objetivo es destruir todos los servidores de cada nivel. Hay 3 niveles en total.
 
 ![image](https://user-images.githubusercontent.com/28521533/229397999-c433322f-94e4-4975-ab68-6165229899ba.png)
 ![image](https://user-images.githubusercontent.com/28521533/229398008-e6aec41a-dc07-40e2-b4d5-35ee4911cbac.png)
 ### Objetivo
-El jugador empezará con 5 vidas para completar todo el juego (completar un nivel da 1 vida extra). Cada nivel tiene un tiempo límite para completarlo. Si el tiempo se acaba o el jugador pierde su última vida, el juego terminará y deberá volver al menú principal. Para destruir los servidores, el jugador debe conseguir dinamita. Entonces, cada nivel se podría dividir en dos partes: la primera consiste en conseguir la dinamita, y la segunda en usarla para destruir los servidores que se encuentren el nivel. Los niveles tendrán diversos obstáculos que el jugador deberá evitar, y varios no podrán ser superados sin ayuda de alguna de las herramientas que aparecerán en el nivel.
+El jugador empezará con 5 vidas para completar todo el juego (completar un nivel otorga 1 vida extra). Cada nivel tiene un tiempo límite para completarlo. Si el tiempo se acaba o el jugador pierde su última vida, el juego terminará y deberá volver al menú principal. Para destruir los servidores, el jugador debe conseguir dinamita. Entonces, cada nivel se podría dividir en dos partes: la primera consiste en conseguir la dinamita, y la segunda en usarla para destruir los servidores que se encuentren el nivel. Los niveles tendrán diversos obstáculos que el jugador deberá evitar, y varios no podrán ser superados sin ayuda de alguna de las herramientas que aparecerán en el nivel.
 ### Herramientas
 - **Jetpack**: Permite saltar una infinita cantidad de veces sin necesidad de tocar el suelo.
 - **Dinamita**: Ilimitada, se puede arrojar en cualquier momento. Al explotar, los servidores dentro de su radio de explosión serán destruidos, las cajas y las sierras saldrán volando, y el jugador también, además de quedar aturdido por unos segundos.
