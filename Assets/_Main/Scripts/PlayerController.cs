@@ -167,7 +167,7 @@ public class PlayerController : MonoBehaviour
                 Disable(stunDuration);
                 break;
             case "Box":
-                if (collision.rigidbody.velocity.y < -1)
+                if (collision.rigidbody.velocity.y < -2 && body.velocity.y > 0)
                     Disable(stunDuration);
                 break;
             case "Enemy":

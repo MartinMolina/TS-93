@@ -138,11 +138,9 @@ MonoBehaviour:
   maxSpeed: 3
   acceleration: 0.5
   jumpForce: 6
-  coyoteTime: 0.25
+  coyoteTime: 0.15
   airMomentumPenalization: 3
   airStopCoefficient: 0.5
-  jetpack: 0
-  dynamite: 0
   stunDuration: 2
   respawnCooldown: 1
   throwable: {fileID: 4217131218677493154, guid: 5fb015f817bc6dc4a83f6fd89f8f0c70, type: 3}

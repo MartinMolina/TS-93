@@ -4049,10 +4049,6 @@ PrefabInstance:
       propertyPath: playerSpawn
       value: 
       objectReference: {fileID: 1209688214}
-    - target: {fileID: 5767104433661263808, guid: 919dbb2eaa6dade41ba2dbbfa4525281, type: 3}
-      propertyPath: respawnCooldown
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5767104433661263811, guid: 919dbb2eaa6dade41ba2dbbfa4525281, type: 3}
       propertyPath: m_Name
       value: Player
